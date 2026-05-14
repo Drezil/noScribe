@@ -1,0 +1,11 @@
+[submodule "noScribeEdit"]
+	path = noScribeEdit
+	url = https://github.com/kaixxx/noScribeEditor.git
+  shallow = true
+[submodule "models/fast"]
+	path = models/fast
+	url = https://huggingface.co/mukowaty/faster-whisper-int8
+	shallow = true
+[submodule "models/precise"]
+	path = models/precise
+	url = https://huggingface.co/mobiuslabsgmbh/faster-whisper-large-v3-turbo
